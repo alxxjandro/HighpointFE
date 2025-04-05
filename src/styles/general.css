@@ -1,0 +1,12 @@
+:root{
+    --azul: #1b14ef;
+    --blanco: #FFF;
+    --grisFondo: #ebebeb;
+    --grisBoton: #d0d0d0;
+    --colorTexto: #474747;
+}
+
+body{
+    padding: 0;
+    margin: 0;
+}

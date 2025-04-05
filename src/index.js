@@ -1,5 +1,5 @@
 import subirArchivo, { crearModulo } from "./subirArchivo";
+import "./styles/general.css"
 
 const body = document.body;
-console.log(crearModulo())
 body.append(crearModulo());
