@@ -1,7 +1,7 @@
-import upload from "./assets/upload.svg"
+import upload from "./assets/upload.svg";
 
 const imagenes = {
-    upload
-}
+  upload,
+};
 
 export default imagenes;
